@@ -20,4 +20,6 @@ In this version, it searches for **MrBeast YouTube videos** automatically using 
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
 
 Install them using:
+
+```bash
 pip install browser_use langchain-google-genai python-dotenv
